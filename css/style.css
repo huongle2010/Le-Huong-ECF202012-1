@@ -1,0 +1,91 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    padding: 0px;
+    height : 100%
+}
+body {
+    background-color:#F7F4F1;
+    margin: auto;
+    font-family: 'Asap', sans-serif;
+}
+header{
+    background-color: black;
+    height: 100px;
+}
+header p {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+main{
+    background-image: url("../image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    
+    width: auto;
+}
+.search input{
+    width: 364px;
+    border: 3px solid #E88109;
+    margin-top: 70px;
+    margin-left: 170px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+}
+.imageAtiste {
+    display: flex;
+    justify-content: space-between;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    height: 350px;
+    padding: 70px;
+}
+h3{
+    color: white;
+    margin-top: 30px;
+}
+
+.mesRecherches{
+    display: flex;
+    justify-content: space-between;
+   
+    height: 350px;
+    padding: 70px;
+}
+.musicLink{
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    margin-left: 300px;
+}
+.musicLink img{
+    width: 40px;
+    height: 35px;
+}
+button{
+    width: 120px;
+    height: 70px;
+    background-color: #6A67CE;
+    margin-top: 70px;
+    margin-bottom: 70px ;
+}
+footer{
+    background-color: black;
+    height: 107px;
+    border-top: 1px solid white;;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    
+}
+li{
+    color: white;
+    list-style: none;
+    padding: 10px;
+}
