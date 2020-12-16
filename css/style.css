@@ -171,7 +171,6 @@ footer ul li{
 .content{
     display: grid;
     grid-template-columns: repeat(5, 15%);
-    grid-template-rows: 50px repeat(3, 150px) 65px 65px 150px;
     margin-left: 50px;
     padding-bottom: 60px;
     gap: 30px 60px;
@@ -364,8 +363,7 @@ h5{
     }
 /* ---------------------------Mobile version - Page de Mes artistes-------------------------------- */
 .content{
-    grid-template-columns: repeat(3, 25%) repeat(3, 0%);
-    grid-template-rows: 50px repeat(3, 120px) 40px 40px 120px;
+    grid-template-columns: repeat(5, 30%);
     gap: 40px 10px;
 }
 #title1, #title2{
@@ -396,7 +394,7 @@ iframe{
 
 }
 
-/* -----------------ipad version-------------------------------------- */
+/* -----------------Tablet version-------------------------------------- */
 @media screen and (max-width: 1024px) and (min-width: 768px) {
     .name {
         font-size: 35px;
@@ -468,7 +466,6 @@ iframe{
     }
 /* ---------------------------------------page de mes artitles */
 .content{
-    grid-template-rows: 50px repeat(3, 120px) 50px 50px 120px;
     gap: 40px 30px;
 }
 #title1, #title2{
