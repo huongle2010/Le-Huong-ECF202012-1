@@ -141,10 +141,11 @@ h4{
     flex-wrap: wrap;
     justify-self: center;
     align-self: center;
+    width: 100%;
 }
 button{
-    width: 170px;
-    height: 30px;
+    width: 20%;
+    height: auto;
     background-color: #6A67CE;
     margin: 20px 20px 10px 20px;
     color: white;
@@ -314,14 +315,14 @@ h5{
         border-bottom: 1px solid orange;
     }
     .image{
-        width: 30%;
+        width: 80%;
     }
     .research{
         grid-row: 3;
         width: 90%
     }
     .imageResearch{
-        width: 30%;
+        width: 40%;
         margin-bottom: 20px;
     }
     .information{
@@ -347,6 +348,9 @@ h5{
     }
     .searchBar{
         display: none;
+    }
+    button{
+        width: 44%;
     }
     footer ul {
         padding: 20px;
@@ -417,16 +421,17 @@ iframe{
 
     .imageAtiste{
         border-bottom: 1px solid orange;
+        width: 100%
     }
     .image{
-        width: 20%;
+        width: 44%;
     }
     .research{
         grid-row: 3;
         width: 100%
     }
     .imageResearch{
-        width: 15%;
+        width: 35%;
         margin-bottom: 20px;
     }
     .information{
@@ -452,6 +457,9 @@ iframe{
     }
     .searchBar{
         display: none;
+    }
+    button{
+        width: 30%;
     }
     footer ul {
         padding: 20px;
