@@ -60,6 +60,7 @@ I changed the size of text and the size of image that is automatically suitable 
 I update the readme file
 
 4. Conclusion
+
 Done: Action 1
 Not Yet: Action 2, Action 3
 
