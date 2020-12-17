@@ -255,6 +255,7 @@ iframe{
 .biographie p {
     text-align: center;
     font-size: 20px;
+    line-height: 35px;
 }
 .concert{
     grid-row: 6/8;
@@ -272,6 +273,7 @@ h5{
 .concert p {
     color: black;
     text-align: center;
+    line-height: 30px;
 }
 .concert span{
     color: white
