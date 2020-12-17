@@ -94,9 +94,15 @@ I update the readme file
 
 # **Conclusion** #
 
-Done: Action 1
+**Done**: Action 1
 
-Not Yet: Action 2, Action 3
+The file of HTML and CSS were valided with W3C
+
+W3C compliance (https://validator.w3.org/)
+
+CSS3 compliance (https://jigsaw.w3.org/css-validator/ )
+
+**Not Yet**: Action 2, Action 3
 
 
 
