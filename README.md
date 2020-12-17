@@ -64,7 +64,7 @@ I finished the first version (v1) of model for both of pages and for desktop, mo
 
 Page 1
 
-![](https://github.com/huongle2010/Le-Huong-ECF202012-1/blob/master/image/background.jpg)
+![](https://github.com/huongle2010/Le-Huong-ECF202012-1/blob/master/image/page1.png)
 
 Explaining HTML and CSS
 - On the header: I have a class “name” and a list (ul) including two navigation links (a). On the footer: there is 5 links.
@@ -72,6 +72,8 @@ Explaining HTML and CSS
 - I displayed grid system for the divide the different sections on the main part 
 
 Page 2
+
+![](https://github.com/huongle2010/Le-Huong-ECF202012-1/blob/master/image/page2.png)
 
 I also displayed grid system for divide the different sections in this page
 
