@@ -153,8 +153,10 @@ button{
     background-color: #6A67CE;
     margin: 20px 20px 10px 20px;
     color: white;
-    font-size: 20px;
     margin-bottom: 70px;
+}
+button a {
+    font-size: 20px;
 }
 /* --------------------------------Footer----------------------------- */
 footer{
@@ -300,7 +302,7 @@ h5{
     .name span {
         font-size: 20px;
     }
-    a {
+    ul li a {
         font-size: 20px; 
     }
     h2{
@@ -360,13 +362,12 @@ h5{
     }
     button{
         width: 44%;
-        margin-bottom: 0px;
+        margin-bottom: 20px;
     }
     footer ul {
         padding: 20px;
     }
     footer ul li{
-        font-size: 15px;
         padding: 10px;
     }
 /* ---------------------------Mobile version - Page de Mes artistes-------------------------------- */
@@ -414,7 +415,7 @@ iframe{
     .name span {
         font-size: 20px;
     }
-    a {
+    ul li a {
         font-size: 24px; 
     }
     h2{
@@ -475,13 +476,12 @@ iframe{
     }
     button{
         width: 30%;
-        margin-bottom: 0px;
+        margin-bottom: 20px;
     }
     footer ul {
         padding: 20px;
     }
     footer ul li{
-        font-size: 15px;
         padding: 10px;
     }
     
