@@ -38,7 +38,7 @@ dates.
 
 **Action 2: Add features**
 
-- Making the slide of images
+- Making the slider of images
 - Contact form
 
 **Action 3: Do with Javascript**
