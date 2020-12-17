@@ -282,7 +282,6 @@ iframe{
     background: linear-gradient(180deg, #6A67CE 0%, rgba(106, 103, 206, 0) 100%);
     border-radius: 20px;
     width: 100%;
-    align-self: end;
 }
 h5{
     color :white;
