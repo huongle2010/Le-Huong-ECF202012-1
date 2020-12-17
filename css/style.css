@@ -31,20 +31,18 @@ body {
 }
 #menu {
     display :flex;
-   
 }
 #menu  li {
     padding: 20px;
     list-style: none;
 }
 a {
-   font-size: 25px;
+   font-size: 30px;
    text-decoration: none;
    color: white;
    font-weight: bold;
 }
-/* --------------------------------------------------------------------- */
-
+/* ---------------------------Main------------------------------------------ */
 main{
     background-image: url("../image/background.jpg");
     background-repeat: no-repeat;
@@ -57,6 +55,7 @@ h2 {
     color: white;
     text-align: center;
     background: linear-gradient(180deg, #6A67CE 0%, rgba(151, 147, 136, 0) 100%);
+    font-size: 30px;
 }
 .atistes{
     display: grid;
@@ -81,7 +80,6 @@ h2 {
     height: 100%;
     border: 1px solid white;
 }
-
 .information{
     grid-row: 2/5;
     grid-column: 1/2;
@@ -113,7 +111,6 @@ h4{
     max-width: 100%;
     border-radius: 20px;
     border: 3px solid white;
-   
 }
 .search {
     display: flex;
@@ -136,6 +133,7 @@ h4{
     height: 40px;
     width: 30%;
     border-radius: 10px;
+    text-align: center;
 }
 .musicLink{
     grid-row: 4;
@@ -147,16 +145,20 @@ h4{
     align-self: center;
     width: 100%;
 }
-button{
+.logo{
     width: 20%;
     height: 50px;
     background-color: #6A67CE;
     margin: 20px 20px 10px 20px;
     color: white;
     margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-button a {
+.logo a {
     font-size: 20px;
+    margin: 0;
 }
 /* --------------------------------Footer----------------------------- */
 footer{
@@ -168,7 +170,6 @@ footer ul{
     justify-content: center;
     padding: 20px;
     flex-wrap: wrap;
-
 }
 footer ul li{
     color: white;
@@ -195,51 +196,29 @@ footer a {
     grid-row: 1;
     grid-column: 1/4;
     text-align: center;
-  
 }
 #title2{
     grid-row: 1;
     grid-column: 4/6;
     text-align: center;
-    
 }
-.image1{
+.image1, .clip1{
     grid-row: 2;
 }
-.clip1{
-    grid-row: 2;
-    grid-column: 2/4;
-}
-.image2{
+.image2, .clip2{
     grid-row: 3;
 }
-.clip2{
-    grid-row: 3;
-    grid-column: 2/4;
-   
-}
-.image3{
+.image3, .clip3{
     grid-row: 4;
 }
-.clip3{
-    grid-row: 4;
-    grid-column: 2/4;
-}
-.image4{
+.image4, .clip4{
     grid-row: 5/7;
 }
-.clip4{
-    grid-row: 5/7;
-    grid-column: 2/4;
-}
-.image5{
+.image5, .clip5{
     grid-row: 7;
-}
-.clip5{
-    grid-row: 7;
-    grid-column: 2/4;
 }
 .clip{
+    grid-column: 2/4;
     align-self: center;
 }
 .imageFavourite{
@@ -322,7 +301,6 @@ h5{
         margin-left: 50px;
         gap: 20px 0px;
     }
-
     .imageAtiste{
         border-bottom: 1px solid orange;
     }
@@ -344,7 +322,6 @@ h5{
         grid-column: 2;
         justify-self: center;
     }
-    
     #mobileSearch{
         display: block;
         grid-row: 4;
@@ -355,6 +332,7 @@ h5{
         justify-self: center;
         border: 3px solid #e88109;
         border-radius: 10px;
+        text-align: center;
     }
     .musicLink{
         grid-row: 5;
@@ -362,7 +340,7 @@ h5{
     .searchBar{
         display: none;
     }
-    button{
+    .logo{
         width: 44%;
         margin-bottom: 20px;
     }
@@ -406,7 +384,6 @@ iframe{
     justify-self: center;
     width: 75%;
 }
-
 }
 
 /* -----------------Tablet version-------------------------------------- */
@@ -418,12 +395,9 @@ iframe{
         font-size: 20px;
     }
     ul li a {
-        font-size: 24px; 
+        font-size: 30px; 
     }
-    h2{
-        font-size: 30px;
-    }
-    h4{
+    h2, h4{
         font-size: 30px;
     }
     .information ul{
@@ -461,7 +435,6 @@ iframe{
     
     #mobileSearch{
         display: block;
-        grid-row: 4;
         grid-column: 2;
         width: 60%;
         height: 50px;
@@ -469,6 +442,7 @@ iframe{
         justify-self: center;
         border: 3px solid #e88109;
         border-radius: 10px;
+        text-align: center;
     }
     .musicLink{
         grid-row: 5;
@@ -476,7 +450,7 @@ iframe{
     .searchBar{
         display: none;
     }
-    button{
+    .logo{
         width: 30%;
         margin-bottom: 20px;
     }
@@ -508,7 +482,6 @@ iframe{
     width: 100%;
     height: 100%;
 }
-
 .biographie{
     grid-row: 9/12;
     grid-column: 1/4;

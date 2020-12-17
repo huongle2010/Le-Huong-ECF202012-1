@@ -1,14 +1,14 @@
 # **Evaluation Project** #
 
 
-#**Object**#
+# **Object** #
 
  Create a website that provides users with a music experience based on customer requirements using HTML3, CSS5 and Javascript (if possible).
 
 #  **Description of action** #
 
-***Action 1:*** 
-Create two pages with HTML and CSS
+**Action 1:**
+**Create two pages with HTML and CSS**
 
 I will create two pages. Each page will be performed with different version: desktop, mobile et tablet. The structure of each page will be based on the model that is given by the customers and I will change the design (for example color, background, font-size…). Each page has the same general structure including: header, footer, graphic atmosphere. Two pages will be linked together
 
