@@ -1,11 +1,11 @@
-**Evaluation Project**
+# **Evaluation Project** #
 
 
- **Object**
+#**Object**#
 
  Create a website that provides users with a music experience based on customer requirements using HTML3, CSS5 and Javascript (if possible).
 
- **Description of action**
+#  **Description of action** #
 
 ***Action 1:*** 
 Create two pages with HTML and CSS
@@ -46,7 +46,7 @@ dates.
 Integrate an information flow using JSON to change the content in HTML
 
 
-**Performance**
+# **Performance** #
 
 **Day 1 **:
 
@@ -92,7 +92,7 @@ I changed the maquette of mobile and tablet (v2) because the image of v1 is too 
 I changed the size of text and the size of image that is automatically suitable for each version. 
 I update the readme file
 
-**Conclusion**
+# **Conclusion** #
 
 Done: Action 1
 
