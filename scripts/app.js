@@ -65,7 +65,6 @@ const images = document.querySelectorAll('.imageFavourite img');
 images.forEach ((image)=>{
     console.log(image.src);
     contents.forEach ((content) => {
-        console.log(content.img);
         if (image.src === content.img){
                image.addEventListener ('click', (even) =>{
                 biographie.innerHTML = "";
