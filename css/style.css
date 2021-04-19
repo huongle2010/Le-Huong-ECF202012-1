@@ -51,7 +51,7 @@ main{
 }
 h2 {
     margin-top: 0px;
-    padding-top: 10px;
+    padding-top: 0px;
     color: white;
     text-align: center;
     background: linear-gradient(180deg, #6A67CE 0%, rgba(151, 147, 136, 0) 100%);
@@ -160,6 +160,11 @@ h4{
     font-size: 20px;
     margin: 0;
 }
+.fixed-position{
+    position: fixed;
+    width: 100%;
+    
+  }
 /* --------------------------------Footer----------------------------- */
 footer{
     background-color: black;
@@ -260,7 +265,7 @@ iframe{
 .concert{
     grid-row: 6/8;
     grid-column: 4/6;
-    background: linear-gradient(180deg, #6A67CE 0%, rgba(106, 103, 206, 0) 100%);
+    background: #6A67CE;
     border-radius: 20px;
     width: 100%;
 }
@@ -400,7 +405,7 @@ iframe{
         font-size: 20px;
     }
     ul li a {
-        font-size: 30px; 
+        font-size: 20px; 
     }
     h2, h4{
         font-size: 30px;
