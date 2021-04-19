@@ -18,7 +18,7 @@ const menu = document.querySelector('.navbar');
 const contents =[
     {
         id: '1',
-        img: 'file:///C:/Users/Le%20Huong/Documents/Formation/certification/Le-Huong-ECF202012-1/image/joshGrobanHarmony.jpg',
+        img: 'https://huongle2010.github.io/Le-Huong-ECF202012-1/image/joshGrobanHarmony.jpg',
         infor: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
         title: 'JoshGrobanHarmony',
         date: 'dd/mm/yy',
@@ -26,7 +26,7 @@ const contents =[
     },
     {
         id: '2',
-        img: 'file:///C:/Users/Le%20Huong/Documents/Formation/certification/Le-Huong-ECF202012-1/image/samSmithAlbum.jpg',
+        img: 'https://huongle2010.github.io/Le-Huong-ECF202012-1/image/samSmithAlbum.jpg',
         infor: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.', 
         title: 'Sam Smith',
         date: 'dd/mm/yy',
@@ -34,7 +34,7 @@ const contents =[
     },
     {
         id: '3',
-        img: 'file:///C:/Users/Le%20Huong/Documents/Formation/certification/Le-Huong-ECF202012-1/image/nakamura.jpg',
+        img: 'https://huongle2010.github.io/Le-Huong-ECF202012-1/image/nakamura.jpg',
         infor: 'Artiste française la plus écoutée hors de France, Aya Nakamura sort aujourdhui son nouvel album titré "AYA".  Et alors que son titre le plus connu, Djadja, flirte avec le milliard de vue sur internet, on imagine que ce troisième opus va faire danser la planéte avec ses tubes spontanés. Mais si on va pouvoir danser chacun chez soi sur ses nouveaux titres, annonce (attendue) de concerts à venir donnerait du baume au choeur à tous ceux qui rêvent de la voir en live et éclater sur ses musiques entêtantes et addictives.', 
         title: 'AYA NAKAMURA',
         date: 'dd/mm/yy',
@@ -42,7 +42,7 @@ const contents =[
     },
     {
         id: '4',
-        img: 'file:///C:/Users/Le%20Huong/Documents/Formation/certification/Le-Huong-ECF202012-1/image/marialCarey.jpg',
+        img: 'https://huongle2010.github.io/Le-Huong-ECF202012-1/image/marialCarey.jpg',
         infor: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
         title: 'Marial Carey',
         date: 'dd/mm/yy',
@@ -50,7 +50,7 @@ const contents =[
     },
     {
         id: '5',
-        img: 'file:///C:/Users/Le%20Huong/Documents/Formation/certification/Le-Huong-ECF202012-1/image/shay.jpg',
+        img: 'https://huongle2010.github.io/Le-Huong-ECF202012-1/image/shay.jpg',
         infor: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.', 
         title: 'Shay',
         date: 'dd/mm/yy',
